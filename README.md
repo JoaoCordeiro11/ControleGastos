@@ -25,6 +25,9 @@ Desenvolvido como desafio técnico de processo seletivo para estágio em TI (Des
 - Lista todas as pessoas com o total de receitas, despesas e saldo (receita − despesa) de cada uma.
 - Exibe o total geral (receitas, despesas e saldo líquido) somando todas as pessoas.
 
+<img width="1061" height="1778" alt="image" src="https://github.com/user-attachments/assets/ed5699ad-006e-41b3-99d1-9b5c75dbdae6" />
+
+
 ## Estrutura do projeto
 
 ControleGastos/
